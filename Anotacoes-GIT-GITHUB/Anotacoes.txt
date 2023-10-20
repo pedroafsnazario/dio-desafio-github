@@ -1,0 +1,3 @@
+- GIT é ótimo para manusear seus repositórios tanto na sua máquina como nos servidores do GITHUB
+- Sempre tenha em mente de utilizar esta ferramente, e qualquer dúvida, basta olhar no site do GIT as informações
+da ferramente, procure por video aulas, stack overflow, e assim por diante
